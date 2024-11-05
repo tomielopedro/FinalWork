@@ -1,0 +1,8 @@
+ - Utilizar o "title" e "body" separadamente e os dois juntos
+ - Verificar matriz de correlação
+ - Descobrir se upvote e comments impactam na decisão do modelo
+ - Verificar se o utc tem relação
+ - Separar as datas em 4 períodos do dia. (6-12, 12-18, 18-24, 24-6)
+ - Separar em ano em mes
+ - Pesquisar o modelo a ser usado
+ - Verificar impacto da gramática no predict
